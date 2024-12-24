@@ -1,0 +1,1 @@
+Shift + F1 to edit scene in runtime
