@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"1e286af33aa65479","type":"text","text":"```tracker\nsearchType: task.done\nsearchTarget: Unity\ndatasetName: Unity Streak\nstartDate: 2025-01-01\nmonth:\n\tstartWeekOn: 'Mon'\n```\n\n```tracker\nsearchType: task.done\nsearchTarget: Unity\nstartDate: 2025-01-01\nsummary:\n    template: \"Longest Streak: {{maxStreak()}} day(s)\\nLongest Breaks: {{maxBreaks()}} day(s)\\nLast streak: {{currentStreak()}} day(s)\"\n```","x":-242,"y":-310,"width":485,"height":620}
+	],
+	"edges":[]
+}

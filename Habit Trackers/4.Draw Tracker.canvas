@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"b3b2ffa063295e8a","type":"text","text":"```tracker\nsearchType: task.done\nsearchTarget: Dibujo\ndatasetName: Dibujo Streak\nstartDate: 2025-01-01\nmonth:\n\tstartWeekOn: 'Mon'\n```\n\n```tracker\nsearchType: task.done\nsearchTarget: Dibujo\nstartDate: 2025-01-01\nsummary:\n    template: \"Longest Streak: {{maxStreak()}} day(s)\\nLongest Breaks: {{maxBreaks()}} day(s)\\nLast streak: {{currentStreak()}} day(s)\"\n```","x":-242,"y":-310,"width":485,"height":620}
+	],
+	"edges":[]
+}
